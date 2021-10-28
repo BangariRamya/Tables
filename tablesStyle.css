@@ -1,0 +1,17 @@
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  padding: 5px;
+  border: 2px solid black;
+}
+
+thead,
+tfoot {
+  background-color: #7a7878;
+  color: #ffffff;
+}
